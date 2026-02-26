@@ -1,29 +1,26 @@
 # Hardware-for-Machine-Learning-Labs-2026
-These are the labs for the first part of the course 'Machine Learning Hardware Course Labs'. It consist of four interactive labs distributed across four days.
+These are the labs for the first part of the course 'Hardware for Machine Learning Course Labs'. It consist of four interactive labs distributed across four days.
 
  Labs from day-1 to day-4 were:
- - Written by [person](website).
- - Revised by [person](website).
+ - Contributed by [Dr. Abdelhay Ali](https://ccsl.kaust.edu.sa/profiles/abdelhay-ali), [Hao Liu](https://accl.kaust.edu.sa/author/hao-liu/), and [Mojtaba AlShams](https://cemse.kaust.edu.sa/profiles/mojtaba-alshams).
  - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil) and [Prof. Suhaib Fahmi](https://www.kaust.edu.sa/en/study/faculty/suhaib-fahmy)
 ## GitHub Page Link QR Code
 <img src="The course github page link you need to put the right name.png" width="300"/>
 
 ## Labs and Solutions
 
-| Labs                                         | Lab Link  | Solutions  |
-|----------------------------------------------|------------|------------|
-| Lab1                          |  <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
-| Lab2                       |  <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
-| Lab3                          | <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |   <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>       |
-| Lab4                                       | <a href="https://colab.research.google.com/github/MFShams/Hardware-for-Machine-Learning-Labs-2026/blob/main/Day4/benchmark_naive_vs_tiling_colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |          |
-| Lab5                                       |  <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
-| Lab6                                       |  <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
-| Lab7                                       | <a href="https://colab.research.google.com/github/MFShams/correct_path.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [Slides (PDF)](correct_path.pdf) |          |
+| Day     | Lab    | Exercise & Worksheet   | Supporting Material | Solutions  |
+|---------|--------|------------------------|---------------------|------------|
+| 1       | Lab1   |                        |                     |            |
+| 2       | Lab2   |                        |                     |            |
+| 3       | Lab3   |                        |                     |            |
+| 4       | Lab4a   |                        |                     |            |
+| 4       | Lab4b   |                        |                     |            |
+
 ## Demos Codes
 
-| Demo                                         | Demo Link  |
-|----------------------------------------------|------------|
-| Demo1                          |       |
-| Demo2                       |       |
-| Demo3                          |          |
-| Demo4                                 |       |
+| Demo      | Demo Link  |
+|-----------|------------|
+| MNIST in inteligent microcontroller     |            |
+| Accessing devices remotely     |            |
+| Pos estimation in Hailo     |            |
