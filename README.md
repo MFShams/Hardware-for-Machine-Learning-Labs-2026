@@ -21,6 +21,5 @@ These are the labs for the first part of the course 'Hardware for Machine Learni
 
 | Demo      | Demo Link  |
 |-----------|------------|
-| MNIST in inteligent microcontroller     |            |
 | Accessing devices remotely     |            |
 | Pos estimation in Hailo     |            |
