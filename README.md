@@ -11,7 +11,7 @@ These are the labs for the first part of the course 'Hardware for Machine Learni
 
 | Day     | Lab    | Exercise & Worksheet   | Supporting Material | Solutions  |
 |---------|--------|------------------------|---------------------|------------|
-| 1       | Lab1   |                        |                     |            |
+| 1       | Lab1   |  <a href="https://colab.research.google.com/github/MFShams/Hardware-for-Machine-Learning-Labs-2026/blob/main/Day1/lab1_notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [word file](https://github.com/MFShams/Hardware-for-Machine-Learning-Labs-2026/blob/main/Day1/LAB_1_WORKSHEET.docx)  |                     |            |
 | 2       | Lab2   |                        |                     |            |
 | 3       | Lab3   |                        |                     |            |
 | 4       | Lab4a   |                        |                     |            |
@@ -21,6 +21,5 @@ These are the labs for the first part of the course 'Hardware for Machine Learni
 
 | Demo      | Demo Link  |
 |-----------|------------|
-| MNIST in inteligent microcontroller     |            |
 | Accessing devices remotely     |            |
 | Pos estimation in Hailo     |            |
