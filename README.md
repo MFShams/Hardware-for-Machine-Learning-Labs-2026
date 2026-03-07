@@ -21,5 +21,6 @@ These are the labs for the first part of the course 'Hardware for Machine Learni
 
 | Demo      | Demo Link  |
 |-----------|------------|
+| Effecient MNIST on ESP32     |  [Demo Files](https://github.com/MFShams/Hardware-for-Machine-Learning-Labs-2026/tree/main/Demos/Demo1) [ESP32 Purchase Link](https://ar.aliexpress.com/item/1005007594303790.html?spm=a2g0o.order_list.order_list_main.27.5b8d1802xWddNC&gatewayAdapt=glo2ara)          |
 | Accessing devices remotely     |            |
 | Pos estimation in Hailo     |            |
