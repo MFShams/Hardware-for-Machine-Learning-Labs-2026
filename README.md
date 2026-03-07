@@ -22,5 +22,5 @@ These are the labs for the first part of the course 'Hardware for Machine Learni
 | Demo      | Demo Link  |
 |-----------|------------|
 | Effecient MNIST on ESP32     |  [Demo Files](https://github.com/MFShams/Hardware-for-Machine-Learning-Labs-2026/tree/main/Demos/Demo1) [ESP32 Purchase Link](https://ar.aliexpress.com/item/1005007594303790.html?spm=a2g0o.order_list.order_list_main.27.5b8d1802xWddNC&gatewayAdapt=glo2ara)          |
-| Accessing devices remotely     |            |
+| Accessing devices remotely     |    [demo instructions](https://github.com/MFShams/Hardware-for-Machine-Learning-Labs-2026/blob/main/Demos/Demo2/demo2.pptx) [DGX Spark](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web) [Jetson AGX Orin](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/) [Metis Dev](https://axelera.ai/hubfs/Metis%20Dev%20System%20with%20Arduino%20Portenta%20X8%20%5BDigital%5D.pdf?_gl=1*1l3rfrk*_gcl_au*Mjg3NTU1MjUxLjE3NjQxNTg0MTIuMjM5NTgxMjcuMTc2NDIyMzY2OC4xNzY0MjIzNjcx*_ga*NTg1MDcwNzk4LjE3NjQxNTg0MTI.*_ga_GFNDED14ST*czE3NjQyMjM2OTAkbzEkZzAkdDE3NjQyMjM2OTAkajYwJGwwJGg0MzMzNTg3ODk.)        |
 | Pos estimation in Hailo     |            |
