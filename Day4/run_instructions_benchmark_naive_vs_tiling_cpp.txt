@@ -1,0 +1,4 @@
+Download benchmark_naive_vs_tiling.cpp into your laptop.
+Open your laptop terminal, navigate to the file directory, then run the below commands:
+g++ -O2 -std=c++11 benchmark_naive_vs_tiling.cpp -o naive_vs_tiling
+./naive_vs_tiling
