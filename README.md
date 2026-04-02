@@ -3,7 +3,7 @@ These are the labs for the first part of the course 'Hardware for Machine Learni
 
  Labs from day-1 to day-4 were:
  - Contributed by [Dr. Abdelhay Ali](https://ccsl.kaust.edu.sa/profiles/abdelhay-ali), [Hao Liu](https://cemse.kaust.edu.sa/profiles/hao-liu), and [Mojtaba AlShams](https://cemse.kaust.edu.sa/profiles/mojtaba-alshams).
- - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil) and [Prof. Suhaib Fahmi](https://www.kaust.edu.sa/en/study/faculty/suhaib-fahmy)
+ - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil) and [Prof. Suhaib Fahmy](https://www.kaust.edu.sa/en/study/faculty/suhaib-fahmy)
 ## GitHub Page Link QR Code
 [<img src="Hardware for ML_github page.png" width="300"/>](https://github.com/MFShams/Hardware-for-Machine-Learning-Labs-2026.git)
 
