@@ -1,4 +1,4 @@
-# Practical Exam
+# Assessed Final Lab
 ## Hardware for Machine Learning
 
 ---
