@@ -1,2 +1,2 @@
-git clone https://github.com/MFShams/Machine-Learning-Hardware-Course-Labs.git
-cd Machine-Learning-Hardware-Course-Labs/Project
+git clone https://github.com/MFShams/Hardware-for-Machine-Learning-Labs-2026.git
+cd Hardware-for-Machine-Learning-Labs-2026/Course_Project/
