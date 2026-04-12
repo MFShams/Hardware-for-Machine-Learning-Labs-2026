@@ -13,7 +13,7 @@
 - All questions are independent of one another — you may complete them in any order within each part. Nevertheless, you are highly advised to finish part-1 first.
 - Each question includes executable code with missing snippets marked by a `TODO` comment. Complete the `TODO`, run the code, and answer any follow-up questions.
 - Grading is binary (except for Part 2): full marks if correct output from the TODO task, zero otherwise.
-- You must rely solely on your lab materials. External resources are not allowed. No internet searching nor any AI tool are allowed. <span style="background-color: yellow; font-weight: bold;">Using search engines such as google.com or any AI tool is strictly prohibited!</span>
+- You must rely solely on your lab materials. External resources are not allowed. No internet searching nor any AI tool are allowed. Only google translate is allowed. <span style="background-color: yellow; font-weight: bold;">Using search engines such as google.com or any AI tool is strictly prohibited!</span>
 
 ---
 
