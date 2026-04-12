@@ -13,7 +13,7 @@
 - All questions are independent of one another — you may complete them in any order within each part. Nevertheless, you are highly advised to finish part-1 first.
 - Each question includes executable code with missing snippets marked by a `TODO` comment. Complete the `TODO`, run the code, and answer any follow-up questions.
 - Grading is binary (except for Part 2): full marks if correct output from the TODO task, zero otherwise.
-- You must rely solely on your lab materials. External resources are not allowed. No internet searching nor any AI tool are allowed. <span style="background-color: yellow; font-weight: bold;">Using search engines such as google.com or any AI tool is strictly prohibited!</span>
+- You must rely solely on your lab materials. External resources are not allowed. No internet searching nor any AI tool are allowed. Only google translate is allowed. <span style="background-color: yellow; font-weight: bold;">Using search engines such as google.com or any AI tool is strictly prohibited!</span>
 
 ---
 
@@ -34,3 +34,15 @@ This section builds on the lab exercises and requires a more careful reading of 
 
 **End of Exam.**
 Full mark is 29
+
+
+
+---
+# Starting the exam instructions:
+1. Please open your blackboard to download the exam notebook into your laptop.
+3. Move the file to your google drive and open it from there.
+4. You can start your exam in colab.
+5. Once your done with your exam, download your solution as an '.ipynb' file.
+7. Name your file as firstname_lastnam_Practical_Exam.ipynb
+8. MAKE SURE your file has all the answers you intend to submit!
+9. Submit it into blackboard.
