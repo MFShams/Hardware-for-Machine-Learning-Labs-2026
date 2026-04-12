@@ -34,3 +34,12 @@ This section builds on the lab exercises and requires a more careful reading of 
 
 **End of Exam.**
 Full mark is 29
+
+
+
+---
+# Starting the exam instructions:
+1- Please open your blackboard to download the exam notebook into your laptop.
+2- Move the file to your google drive and open it from there.
+3- You can start your exam in colab.
+4- Once your done with your exam, submit it into blackboard.
