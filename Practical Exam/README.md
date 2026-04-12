@@ -42,4 +42,7 @@ Full mark is 29
 1. Please open your blackboard to download the exam notebook into your laptop.
 3. Move the file to your google drive and open it from there.
 4. You can start your exam in colab.
-5. Once your done with your exam, submit it into blackboard.
+5. Once your done with your exam, download your solution as an '.ipynb' file.
+7. Name your file as firstname_lastnam_Practical_Exam.ipynb
+8. MAKE SURE your file has all the answers you intend to submit!
+9. Submit it into blackboard.
